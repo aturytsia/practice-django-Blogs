@@ -1,0 +1,3 @@
+# Simple Blog Application
+
+This backend application is designed to efficiently manage blogs, inspired by a (course)[https://www.udemy.com/course/python-django-the-practical-guide/] on Udemy. As I progressed through the course, my goal was to hone my skills in Django by applying practical knowledge to real-world scenarios. The project allowed me to delve deeper into Django's capabilities, from setting up models and views to implementing authentication and enhancing user experience. By following best practices and leveraging the course's insights, I not only strengthened my proficiency in Django but also gained valuable experience .
